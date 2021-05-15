@@ -2,7 +2,10 @@
  * Create a Backpack object, populate some HTML to display its properties.
  */
 
-// Single line comment
+// Single line comment 
+// Prettier helps automatically clean up your formatting
+// ESLint helps automatically detect coding errors and can do basic cleanup automatically
+//Both require Node.js 
 
 /* Multi-line comment
 See! this line is also commented out! */
